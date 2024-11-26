@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm m10k</h1>
-
----
-
-<h3 align="center">A guy who's learning about all these IT stuff!</h3>
-
----
+<h2 align="center">A guy who's learning about all these IT stuff!</h2>
 
 - 🔭 I’m currently studying an **advanced specific vocational training (IT Administration)**
 
