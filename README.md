@@ -3,7 +3,7 @@
 <h2 align="center">A guy who's learning about all these IT stuff!
 </h2>
 
-- 🔭 I’m currently studying an **advanced specific vocational training (IT Administration)**
+- 🔭 I’m currently looking for a job related to **IT administration & IT Support**
 
 - 🌱 I’m currently learning about **python, bash & cybersec**
 
