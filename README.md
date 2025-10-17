@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm m10k
 </h1>
-<h2 align="center">A guy who's learning about all these IT stuff!
+<h2 align="center">A guy who's learning about cybersec and all these IT stuff!
 </h2>
 
 - 🔭 I’m currently looking for a job related to **IT administration & IT Support**
 
-- 🌱 I’m currently learning about **python, bash & cybersec**
+- 🌱 I’m currently learning about **python, c, bash & cybersec**
 
 - 📫 How to reach me **mrm10k@protonmail.com**
 
